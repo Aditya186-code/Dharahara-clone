@@ -14,12 +14,3 @@ This is the final project for the completion of the computer graphics course.
 ./build.sh
 ```
 
-### Windows
-CMake build methods
-
-```
-mkdir build/
-cmake -B build/ -S .
-cd build/
-make
-```
